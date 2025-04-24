@@ -1,6 +1,7 @@
 ---
 title: New PC Checklist
-authors: Khoa Le
+date: 2025-04-24
+authors: ["Khoa Le"]
 ---
 # Self-installable by artist
 

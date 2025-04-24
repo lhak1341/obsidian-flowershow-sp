@@ -1,6 +1,7 @@
 ---
 title: Our Team
-authors: Khoa Le
+date: 2025-04-24
+authors: ["Khoa Le"]
 ---
 > Our team, as of April 2025, includes **8** people.
 
