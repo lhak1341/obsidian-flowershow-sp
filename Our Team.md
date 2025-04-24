@@ -2,11 +2,11 @@
 date: 2025-04-24
 authors:
   - Khoa Le
-description:
+description: Our team, as of April 2025, includes 8 people.
 ---
 # Our Team
 
-Our team, as of April 2025, includes 8 people.
+> Our team, as of **April 2025**, includes **8 people**.
 
 ## Artists
 

@@ -3,7 +3,7 @@ title: New PC Checklist
 date: 2025-04-24
 authors:
   - Khoa Le
-description:
+description: Checklist for IT and new artist to make sure all the software and plugin is installed.
 ---
 # New PC Checklist
 
