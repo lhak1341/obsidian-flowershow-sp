@@ -2,6 +2,7 @@
 date: 2025-04-24
 authors:
   - Khoa Le
+description:
 ---
 # Our Team
 

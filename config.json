@@ -11,18 +11,6 @@
         "href": "/about",
         "name": "About"
       }
-    ],
-    "social": [
-      {
-        "label": "github",
-        "name": "GitHub Profile",
-        "href": "https://github.com/yourusername"
-      },
-      {
-        "label": "twitter",
-        "name": "Follow me on Twitter",
-        "href": "https://twitter.com/yourusername"
-      }
     ]
   },
   "showSidebar": true
