@@ -1,3 +1,5 @@
+# Our Team
+
 > Our team, as of April 2025, includes **8** people.
 
 |   ⠀ | Person              | Employee No. | Birthday          | On board date |
