@@ -7,8 +7,6 @@ description: Checklist for IT and new artist to make sure all the software and p
 ---
 # New PC Checklist
 
-Checklist for IT and new artist to make sure all the software and plugin is installed.
-
 ## Self-installable by artist
 
 ### Company Portal
