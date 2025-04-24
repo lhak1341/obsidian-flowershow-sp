@@ -4,11 +4,13 @@ date: 2025-04-24
 authors:
   - Khoa Le
 ---
+# New PC Checklist
+
 Checklist for IT and new artist to make sure all the software and plugin is installed.
 
-# Self-installable by artist
+## Self-installable by artist
 
-## Company Portal
+### Company Portal
 
 - 7-Zip
 - ccPROFILER
@@ -24,7 +26,7 @@ Checklist for IT and new artist to make sure all the software and plugin is inst
 - Subtitle Edit
 - VLC media player
 
-## Adobe Creative Cloud
+### Adobe Creative Cloud
 
 - Adobe After Effects
 - Adobe Premiere Pro
@@ -34,9 +36,9 @@ Checklist for IT and new artist to make sure all the software and plugin is inst
 - Adobe InDesign
 - Adobe Acrobat
 
-# Need IT support
+## Need IT support
 
-## Software
+### Software
 
 - Deadline
 - Microsoft Excel
@@ -44,9 +46,9 @@ Checklist for IT and new artist to make sure all the software and plugin is inst
 - Microsoft Word
 - Unikey
 
-## AE plugin
+### AE plugin
 
-### Animation Composer 3
+#### Animation Composer 3
 
 - Run installer _MisterHorseProductManagerSetup_1.3.8.exe_ at
 
@@ -62,7 +64,7 @@ Checklist for IT and new artist to make sure all the software and plugin is inst
 
 - **Essential Typography**: I cannot find installer on `\\vn-srvcgi.np3.local\CGI_Animation\UTILITIES\SOFTWARE\After Effects\`… maybe it’s a in-app installing, or IT keeps installers somewhere else
 
-### Frischluft
+#### Frischluft
 
 - Copy folder _Frischluft_ from
 
@@ -76,11 +78,11 @@ Checklist for IT and new artist to make sure all the software and plugin is inst
 C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
 ```
 
-### Mt. Mograph Motion 4
+#### Mt. Mograph Motion 4
 
 - Installer for **v4.3.4** is at https://mtmograph.com/pages/downloads
 
-### Plexus
+#### Plexus
 
 - Copy folder _Rowbyte_ from
 
@@ -94,9 +96,9 @@ C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
 C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
 ```
 
-### Maxon
+#### Maxon
 
-- Latest **Maxon App** installer can be found at https://www.maxon.net/en/downloads
+- Download latest **Maxon App** installer at https://www.maxon.net/en/downloads
 - Then open the Maxon app and install **Red Giant**
 
 ### Video Copilot
@@ -104,41 +106,47 @@ C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
 #### FX Console / Optical Flares
 
 - Run these installers:
-	```
-	\\vn-srvcgi.np3.local\CGI_Animation\UTILITIES\SOFTWARE\After Effects\Video Copilot
-	```
-	1. _FXConsole_1.0.5_Installer_x64_2022.exe_
-	2. _OpticalFlares_1.3.8 (168)_Installer_x64_2022.exe_
+
+```
+\\vn-srvcgi.np3.local\CGI_Animation\UTILITIES\SOFTWARE\After Effects\Video Copilot
+```
+
+1. <em>FXConsole_1.0.5_Installer_x64_2022.exe</em>
+2. <em>OpticalFlares_1.3.8 (168)_Installer_x64_2022.exe</em>
 
 #### VC Color Vibrance / VC Reflect
 
 - Copy folder _VCColorVibrance_1.0.7_ and _VC Reflect_ from
-	```
-	\\vn-srvcgi.np3.local\CGI_Animation\UTILITIES\SOFTWARE\After Effects\Video Copilot
-	```
+
+```
+\\vn-srvcgi.np3.local\CGI_Animation\UTILITIES\SOFTWARE\After Effects\Video Copilot
+```
+
 - to local _MediaCore_ folder
-	```
-	C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
-	```
+
+```
+C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
+```
 
 ### Adobe Exchange
 
-- **Motion Bro**
-  https://exchange.adobe.com/apps/cc/105006/motion-bro
+- **Motion Bro**: https://exchange.adobe.com/apps/cc/105006/motion-bro
 
 ### Aescript
 
 - Copy all the .aex files from
-	```
-	\\vn-srvcgi.np3.local\CGI_Animation\UTILITIES\SOFTWARE\After Effects\Plug-ins
-	```
+
+```
+\\vn-srvcgi.np3.local\CGI_Animation\UTILITIES\SOFTWARE\After Effects\Plug-ins
+```
+
 - to local _MediaCore_ folder
-	```
-	C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
-	```
+
+```
+C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
+```
 
 # What’s being left out
 
 - **Overlord**
-- **RSMB**
-	- `\\vn-srvcgi\CGI_Animation\UTILITIES\SOFTWARE\After Effects\Plug-ins\RSMB`
+- **RSMB** (`\\vn-srvcgi\CGI_Animation\UTILITIES\SOFTWARE\After Effects\Plug-ins\RSMB`)

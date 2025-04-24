@@ -1,9 +1,13 @@
 ---
-title: Our Team
 date: 2025-04-24
-authors: ["Khoa Le"]
+authors:
+  - Khoa Le
 ---
+# Our Team
+
 Our team, as of April 2025, includes 8 people.
+
+## Artists
 
 |   ⠀ | Person              | Employee No. | Birthday          | On board date |
 | --: | ------------------- | :----------: | ----------------- | ------------- |
