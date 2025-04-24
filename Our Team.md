@@ -2,8 +2,9 @@
 title: Our Team
 date: 2025-04-24
 authors: ["Khoa Le"]
-description: "Our team, as of April 2025, includes 8 people."
 ---
+Our team, as of April 2025, includes 8 people.
+
 |   ⠀ | Person              | Employee No. | Birthday          | On board date |
 | --: | ------------------- | :----------: | ----------------- | ------------- |
 |   1 | Minh Hai Pham       |   `840051`   | ⽉ Oct 09, 1995    | Dec 30, 2019  |
