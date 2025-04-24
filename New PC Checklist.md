@@ -146,7 +146,7 @@ C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
 C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
 ```
 
-# What’s being left out
+## What’s being left out
 
 - **Overlord**
 - **RSMB** (`\\vn-srvcgi\CGI_Animation\UTILITIES\SOFTWARE\After Effects\Plug-ins\RSMB`)
